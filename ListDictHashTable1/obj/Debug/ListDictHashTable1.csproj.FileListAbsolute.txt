@@ -1,0 +1,10 @@
+C:\Users\gamef\source\repos\ListDictHashTable1\ListDictHashTable1\bin\Debug\ListDictHashTable1.exe.config
+C:\Users\gamef\source\repos\ListDictHashTable1\ListDictHashTable1\bin\Debug\ListDictHashTable1.exe
+C:\Users\gamef\source\repos\ListDictHashTable1\ListDictHashTable1\bin\Debug\ListDictHashTable1.pdb
+C:\Users\gamef\source\repos\ListDictHashTable1\ListDictHashTable1\obj\Debug\ListDictHashTable1.csprojAssemblyReference.cache
+C:\Users\gamef\source\repos\ListDictHashTable1\ListDictHashTable1\obj\Debug\ListDictHashTable1.Form1.resources
+C:\Users\gamef\source\repos\ListDictHashTable1\ListDictHashTable1\obj\Debug\ListDictHashTable1.Properties.Resources.resources
+C:\Users\gamef\source\repos\ListDictHashTable1\ListDictHashTable1\obj\Debug\ListDictHashTable1.csproj.GenerateResource.cache
+C:\Users\gamef\source\repos\ListDictHashTable1\ListDictHashTable1\obj\Debug\ListDictHashTable1.csproj.CoreCompileInputs.cache
+C:\Users\gamef\source\repos\ListDictHashTable1\ListDictHashTable1\obj\Debug\ListDictHashTable1.exe
+C:\Users\gamef\source\repos\ListDictHashTable1\ListDictHashTable1\obj\Debug\ListDictHashTable1.pdb
